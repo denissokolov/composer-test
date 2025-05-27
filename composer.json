@@ -1,6 +1,6 @@
 {
   "name": "swap-commerce/test-extension",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "International duty & tax calculations for cross-border sales",
   "type": "magento2-module",
   "require": {
