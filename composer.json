@@ -1,0 +1,20 @@
+{
+  "name": "swap/test-extension",
+  "version": "0.0.1",
+  "description": "International duty & tax calculations for cross-border sales",
+  "type": "magento2-module",
+  "require": {
+    "magento/framework": "*"
+  },
+  "license": [
+    "proprietary"
+  ],
+  "autoload": {
+    "files": [
+        "registration.php"
+    ],
+    "psr-4": {
+      "Swap\\Extension\\": ""
+    }
+  }
+}
